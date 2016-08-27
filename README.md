@@ -1,9 +1,9 @@
 # Open MCT [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-
+[pokefortress](http://www.pokefortress.com/)
 Open MCT is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. As a generalizable and open source framework, Open MCT could be used as the basis for building applications for planning, operation, and analysis of any systems producing telemetry data.
 
 Please visit our [Official Site](https://nasa.github.io/openmct/) and [Getting Started Guide](https://nasa.github.io/openmct/getting-started/)
-
+[pokefortress](http://www.pokefortress.com/)
 ## See Open MCT in Action
 
 Try Open MCT now with our [live demo](https://openmct-demo.herokuapp.com/).
@@ -11,9 +11,9 @@ Try Open MCT now with our [live demo](https://openmct-demo.herokuapp.com/).
 
 ## New API
 A new API is currently under development that will deprecate a lot of the documentation currently in the docs directory, however Open MCT will remain compatible with the currently documented API. An updated set of tutorials is being developed with the new API, and progress on this task can be followed in the [associated pull request](https://github.com/nasa/openmct/pull/999). Any code in this branch should be considered experimental, and we welcome any feedback.
-
+[pokefortress](http://www.pokefortress.com/)
 Differences between the two APIs include a move away from a declarative system of JSON configuration files towards an imperative system based on function calls. Developers will be able to extend and build on Open MCT by making direct function calls to a public API. Open MCT is also being refactored to minimize the dependencies that using Open MCT imposes on developers, such as the current requirement to use Angular JS.
-
+[pokefortress](http://www.pokefortress.com/)
 ## Building and Running Open MCT Locally
 
 Building and running Open MCT in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/) installed, then follow the directions below. Need additional information? Check out the [Getting Started](https://nasa.github.io/openmct/getting-started/) page on our website.
